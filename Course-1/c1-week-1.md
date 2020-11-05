@@ -110,9 +110,9 @@ An **algorithm** is a series of steps that solve specific problems.
 2. Operating System
   - The **operating system** allows hardware to communicate with the system.
 3. Software
-  - The software layer is how we as humans interact with our computers.
+  - The **software layer** is how we as humans interact with our computers.
 4. Users
-  - The user interacts with the computer; and can operate, maintain, and even program the computer.
+  - The **user** interacts with the computer; and can operate, maintain, and even program the computer.
 
 #### More on abstraction
  - [A deeper, exciting explanation by Professor David J. Malan](https://www.youtube.com/watch?v=6V1sr0XV_Ng)
