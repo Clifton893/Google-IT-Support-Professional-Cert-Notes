@@ -12,7 +12,8 @@ But then it hit me: *What if my notes could help other people?* After all, I alr
 
 ## How to Use
 - In the repository's [main page](https://github.com/Clifton893/Google-IT-Support-Notes), click into the folder named for the course you want to learn more about. 
-- From there, click on the week whose content you want to review. That's it!
+  - From there, click on the week whose content you want to review. 
+    - That's it!
 - My notes range from key takeaways from lessons, to helpful reminders for review, to links for further reading or learning.
 - **Also**, each week's file will be periodically updated, as needed. I want to make it easier for you to read, ya know? 😄
 
