@@ -5,7 +5,7 @@
 
 *As an IT Support Specialist, you'll be in a position to not only know how a given piece of technology functions, but also how to help fix it when it breaks.*
 
-- **Software** How we, as users directly interact with our computer.
+- **Software** is how we, as users, directly interact with our computer.
 
 - If *hardware* is the physical stuff that you can pick up and hold, *software* is the intangible instructions that tell the hardware what to do.
 
@@ -14,35 +14,35 @@
 
 #### Common software-related terms
 
-- **Coding** Translating one language to another.
+- **Coding:** Translating one language to another.
   - Can be English to Spanish, or English to Morse Code, or English to binary.
   - When someone builds an application, we refer to it as *coding* an application.
 
-- **Scripting** Coding in a scripting language.
-  - **Scripts** Mainly used to perform a single or limited-range task.
+- **Scripting:** Coding in a scripting language.
+  - **Scripts** are mainly used to perform a single or limited-range task.
 
-- **Programming** Coding in a programming language.
-  - **Programming languages** Special languages that software developers use to write instructions for computers to execute.
+- **Programming:** Coding in a programming language.
+  - **Programming languages** are special languages that software developers use to write instructions for computers to execute.
 
 - The term *software* generally refers to something that was programmed.
 
 
 ### Types of Software
 
-- **Copyright** Used when creating original work.
+- **Copyright** is used when creating original work.
 
-- **Open-source software (OSS)** A type of software that can allow freedom of use, modification, and sharing.
+- **Open-source software (OSS)** is a type of software that can allow freedom of use, modification, and sharing.
   - A good example is the Linux kernel. 
   - LibreOffice, GIMP, and FireFox are other examples of OSS.
 
 - Open-source projects are usually contributed to by developers who work on the project for free on their own time.
   - Some of the greatest software efforts were built by a community of volunteers.
 
-- **Application software** Any software created to fulfill a specific need, like a text editor, web browser, or graphic editor.
+- **Application software** is any software created to fulfill a specific need, like a text editor, web browser, or graphic editor.
 
-- **System software** Software used to keep our core system running, like operating system tools and utilities.
+- **System software** is software used to keep our core system running, like operating system tools and utilities.
 
-- **Firmware** Software that's permanently stored on a computer component.
+- **Firmware** is software that's permanently stored on a computer component.
   - An example would be the BIOS.
 
 - Sequential numbering trend is used when categorizing software versions.
@@ -61,13 +61,13 @@
 - In the early days of computing, scientists needed to replace the tedious system of punchcards.
   - Eventually, they invented a new language: Assembly.
 
-- **Assembly language** Allowed computer scientists to use human readable instructions, assembled into code, that the machines could understand.
+- **Assembly language** allowed computer scientists to use human readable instructions, assembled into code, that the machines could understand.
   - Assembly allowed computer scientists to provide instructions not in binary code, but in human-readable language.
 
 - But during that time, a program written for a specific CPU could only be run on that CPU (or CPU family).
   - The need for a program that could run on many different types of CPUs led to the development of compiled programming languages.
 
-- **Compiled programming languages** Uses human readable instructions, then sends them through a compiler.
+- **Compiled programming languages** use human readable instructions, then send them through a compiler.
   - The compiler converts the human readable instructions and converts them into machine readable instructions.
   - This technique was invented by Admiral Grace Hopper in 1959 to make programming easier.
 
@@ -100,21 +100,21 @@
 
 - Old software is another problem.
   - When you run old software on your machine, you expose yourself to cybersecurity attacks that take advantage of software bugs.
-  - **Software bugs** An error in software that causes unexpected results.
+  - **Software bugs** are errors in software that causes unexpected results.
 
 - Update your software constantly.
 
-- **Software management** Includes many tasks such as installing, updating, and removing software.
+- **Software management** includes many tasks such as installing, updating, and removing software.
   - You want to make sure a worker's computer has all the software required for their job.
 
 
 ### Installing, Updating, and Removing Software on Windows
 
-- **Git** A version control system that helps keep track of changes made to files and directories.
+- **Git** is a version control system that helps keep track of changes made to files and directories.
 
 - Remember to mirror the bit architecture of your CPU (32-bit or 64-bit) and mirror accordingly.
 
-- **.exe** A file extension found in Windows for an executable file.
+- **.exe** is a file extension found in Windows for an executable file.
 
 - Sometimes after installing new software, your system prompts you to reboot. Make sure you do.
   - There might be system files or processes that also need to restart for your new software to work correctly.
