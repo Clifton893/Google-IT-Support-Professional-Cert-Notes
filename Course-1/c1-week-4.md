@@ -86,7 +86,7 @@ Computers connect to a few different devices that help organize our network toge
 
 - **Uniform Resource Locator (URL)** A web address, similar to a home address.
 
-- The part after `www` in a web address is called the **domain name**.
+- The part after `www.` in a web address is called the **domain name**.
   - Once a domain name is registered with the Internet Corporation for Assigned Names and Numbers (ICANN), no one else can take that name unless it becomes available again.
 
 - **Domain name system (DNS)** acts like the Internet's directory, using human-readable words to map to an IP address.
