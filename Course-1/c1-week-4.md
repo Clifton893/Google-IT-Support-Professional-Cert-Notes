@@ -154,4 +154,24 @@ Computers connect to a few different devices that help organize our network toge
 
 ### Keywords
 
+What is a network?
+
+What is the Internet?
+
+What is an IP address?
+
+What is a MAC address?
+
+What is the DNS?
+
+What is NAT?
+
+What is the Internet of Things?
+
 ### Concepts
+
+What is the process of connecting to the Internet?
+
+What is the difference between the TCP and IP?
+
+Why was the creation of TCP/IP so important in networking history?
