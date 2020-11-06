@@ -6,17 +6,17 @@
 
 ### Basics of Networking
 
-- *"The Internet is just an interconnection of computers around the world, like a giant spider web that brings all of us together."*
+*"The Internet is just an interconnection of computers around the world, like a giant spider web that brings all of us together."*
 
 - We call the interconnection of computers a **network**.
 
-- The Internet is *not* the World Wide Web.
+The Internet is *not* the World Wide Web.
 
 - **The Internet** is the physical connection of computers and wires around the world.
 
 - **The Web** is the information on the Internet.
 
-- **Networking** in the IT field is managing, building, and designing networks.
+**Networking** in the IT field is managing, building, and designing networks.
 
 - You don't connect to the Internet directly; instead, computers called *servers* connect directly to the Internet.
   - These machines serve content like websites, hence the name.
