@@ -10,11 +10,11 @@ Look at the cookie crumbs in that area.
 
 ### Ask Questions!
 
-- **Troubleshooting** The ability to diagnose and resolve a problem.
+- **Troubleshooting** is the ability to diagnose and resolve a problem.
 
 - The first thing to do in troubleshooting is to *ask questions*.
 
-- Never. ***Never*** make the user feel silly or dumb.
+- Never. *Never* make the user feel silly or dumb.
   - IT Support is about working in the service of others.
   - Always try to create a positive experience for the user.
 
@@ -24,7 +24,7 @@ Look at the cookie crumbs in that area.
   - Narrow the scope.
   - After continually isolating the problem, you arrive at the root cause.
 
-- **Root cause** The main factor that's causing a range of issues.
+- **Root cause:** The main factor that's causing a range of issues.
 
 
 ### Follow the Cookie Crumbs
@@ -116,13 +116,13 @@ You may encounter the same issue over, and over again.
   - ?
 
 #### The Ticketing System
-- **Tickets** A common way of documenting an issue.
-- **Bugs** Issues with the system that weren't caused by an external source.
+- **Tickets** are a common way of documenting an issue.
+- **Bugs** are issues with the system that weren't caused by an external source.
 
 - There are several IT industry-specialized systems to keep track of issues, such as:
-  - [Bugzilla]()
-  - [JIRA]()
-  - [Redmine]()
+  - [Bugzilla](https://www.bugzilla.org/)
+  - [JIRA](https://www.atlassian.com/software/jira)
+  - [Redmine](https://www.redmine.org/)
 
 - Update the ticket with what the issue is, the steps/procedures you're trying to resolve, and the solution you arrived at.
   - This is important for two reasons:
