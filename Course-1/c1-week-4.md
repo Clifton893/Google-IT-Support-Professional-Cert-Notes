@@ -10,13 +10,13 @@
 
 - We call the interconnection of computers a **network**.
 
-- The Internet is ***not*** the World Wide Web.
+- The Internet is *not* the World Wide Web.
 
-- **The Internet** The physical connection of computers and wires around the world.
+- **The Internet** is the physical connection of computers and wires around the world.
 
-- **The Web** The information on the Internet.
+- **The Web** is the information on the Internet.
 
-- **Networking** In the IT field is managing, building, and designing networks.
+- **Networking** in the IT field is managing, building, and designing networks.
 
 - You don't connect to the Internet directly; instead, computers called *servers* connect directly to the Internet.
   - These machines serve content like websites, hence the name.
@@ -25,7 +25,7 @@
 
 - Computers on a network have an identifier called an **IP address**.
 
-- *Devices that can connect to a network have another unique identifier called a MAC address.*
+- Devices that can connect to a network have another unique identifier called a MAC address.
   - ***Media access control (MAC) addresses** are generally permanent and hard-coded onto a device.*
 
 - When you send or receive data through a network, you need to have both an **IP* and a **MAC** address.
@@ -48,14 +48,14 @@
 - **Fiber-optic cables** allow greater speeds than all other methods. Named for its glass fibers that transfer 1s and 0s through light, not electrical current.
 
 Computers connect to a few different devices that help organize our network together:
-- **Router** Connects lots of different devices together and helps route network traffic (through *network protocols*).
+- **Router:** Connects lots of different devices together and helps route network traffic (through *network protocols*).
 - **Switches** are like mailrooms in a building.
   - Routers get our letters to the building; 
   - But once we're inside, we use the mailroom to figure out where to send a letter.
 - **Hubs** are like company memos.
   - They don't know who to send the memo to, so they send it to everyone.
 
-- **Network stack** A set of hardware or software that provides the infrastructure for a computer.
+- **Network stack:** A set of hardware or software that provides the infrastructure for a computer.
   - It is all the components that makes up computer networking.
 
 *"You might need to investigate the networks stack and your job. You'd start with making sure the end user computers are working properly. Then you'd turn your attention to other possible points of failure like the cabling, switches and routers, that work together to access the Internet."*
@@ -82,9 +82,9 @@ Computers connect to a few different devices that help organize our network toge
 
 - **Websites** are basically text documents formatted with *HTML*.
 
-- **Hypertext Markup Language (HTML)** A coding language used by web browsers.
+- **Hypertext Markup Language (HTML)** is a coding language used by web browsers.
 
-- **Uniform Resource Locator (URL)** A web address, similar to a home address.
+- **Uniform Resource Locator (URL)** is a web address, similar to a home address.
 
 - The part after `www.` in a web address is called the **domain name**.
   - Once a domain name is registered with the Internet Corporation for Assigned Names and Numbers (ICANN), no one else can take that name unless it becomes available again.
@@ -120,7 +120,7 @@ Computers connect to a few different devices that help organize our network toge
 - IPv6 addresses consist of 128 bits -- four times more than IPv4.
   - Adoption of IPv6 is slow but steady.
 
-- **Network Address Translation (NAT)** Lets organizations use one public IP address and many private IP addresses within the network.
+- **Network Address Translation (NAT)** lets organizations use one public IP address and many private IP addresses within the network.
   - Think of it like a business's receptionist, who transfers calls to private numbers inside the business.
 
 
@@ -128,7 +128,7 @@ Computers connect to a few different devices that help organize our network toge
 
 ### Impact
 
-- **Globalization** The movement that lets governments, businesses, and organizations communicate and integrate together on an international scale.
+- **Globalization** is the movement that lets governments, businesses, and organizations communicate and integrate together on an international scale.
 
 ### Internet of Things
 
@@ -140,7 +140,7 @@ Computers connect to a few different devices that help organize our network toge
 
 - Privacy is no longer a personal issue, it's a matter of national security.
 
-- **Children's Online Privacy Protection Act (COPPA)** Regulates the information you show to children under the age of 13.
+- **Children's Online Privacy Protection Act (COPPA)** regulates the information you show to children under the age of 13.
 
 - Copyright and intellectual property theft is also a massive subject of online policy.
 
