@@ -6,9 +6,9 @@
 
 ### Remote Connection and SSH
 
-- **Remote connection** Allows us to manage multiple machines from anywhere in the world.
+- **Remote connection** allows us to manage multiple machines from anywhere in the world.
 
-- **Secure shell (SSH)** A protocol implemented by other programs to securely access one computer from another.
+- **Secure shell (SSH)** is a protocol implemented by other programs to securely access one computer from another.
   - To use SSH, you need:
     - An SSH client installed on the computer you're connecting *from*, and;
     - An SSH server on the computer you're trying to connect *to*.
@@ -33,12 +33,12 @@
   - [Read more about SSH authentication keys]()
 
 - Another method of secure remote connection is a **VPN**.
-  - **Virtual private network (VPN)** Allows you to connect to a private network (like your work network) over the Internet.
+  - **Virtual private network (VPN):** Allows you to connect to a private network (like your work network) over the Internet.
 
 
 ### Remote Connections on Windows
 
-- **PuTTY** A free, open source software that you can use to make remote connections through several network protocols, including SSH.
+- **PuTTY** is a free, open source software that you can use to make remote connections through several network protocols, including SSH.
 
 - In PuTTY configuration, make note of the *host name, port,* and *connection type* options.
   - By default, the port is set to `22`, which is the default port the SSH protocol uses.
@@ -54,7 +54,7 @@
 
 ### Components of an Operating System
 
-- **Operating system** The whole package that manages our computer's resources and lets us interact with it.
+- **Operating system:** The whole package that manages our computer's resources and lets us interact with it.
 
 - There are two main parts to an operating system: the **kernel** and the **user space**.
   - The **kernel** is the main core of an operating system: 
@@ -67,9 +67,7 @@
 
 #### The major operating systems dealt with in IT
 - Windows (also commonly known as "PC")
-
 - MacOS
-
 - Linux
   - Ubuntu
   - Debian
@@ -79,7 +77,7 @@
 
 - The kernel optimizes *memory usage* and makes sure our applications have enough memory to run.
 
-- **Input/Output (I/O) Management** Anything that can give us input, or that we can use for output of data.
+- **Input/Output (I/O) Management** is anything that can give us input, or that we can use for output of data.
   - It's how the kernel talks to external devices like discs, keyboards, audio devices, etc.
   - Clicking with your mouse is an example of this.
 
@@ -115,7 +113,7 @@
 - We write data to our hard drive in the form of *data blocks*.
   - This mean data saved can be broken down into different pieces and written to different parts of the disk, instead of in one solid piece.
 
-- **Block storage** Improves faster handling of data because the data isn't stored as one long piece and can be accessed quicker. 
+- **Block storage** improves faster handling of data because the data isn't stored as one long piece and can be accessed quicker. 
   - It also helps manage storage space.
 
 - **Metadata** tells us everything we need to know about a file.
@@ -126,7 +124,7 @@
   - Date created
   - File type (extension)
 
-- **File extension** The appended part of a filename that tells us what type of file it is in certain operating systems.
+- **File extension** is the appended part of a filename that tells us what type of file it is in certain operating systems.
 
 - A working knowledge of file systems (and the differences between them) can help you do things like recover data from damaged disks; or explore ways to boot from two different kinds of operating systems (like Windows or Linux) on the same computer.
 
@@ -135,26 +133,26 @@
 
 - One of the most important kernel tasks is *process management*.
 
-- **Process** A program that's executing, like our internet browser or text editor.
+- **Process:** A program that's executing, like our internet browser or text editor.
 
-- **Program** an application that we can run, like Chrome.
+- **Program:** An application that we can run, like Chrome.
   - When a program wants to run, a process has to be created for it.
   - This process requires hardware resources, like RAM and CPU.
 
 - The kernel manages computer's resources effectively and efficiently. But technically, it doesn't handle everything *all at once*.
   - Instead, it executes processes one by one, through a method called a *time slice*.
 
-- **Time slice** A very short interval of time that gets allocated to a process for CPU execution.
+- **Time slice:** A very short interval of time that gets allocated to a process for CPU execution.
   - So short you can't notice it. As in milliseconds.
 
-- **Kernel** Creates processes, efficiently schedules them, and manages how processes are terminated.
+- **Kernel:** Creates processes, efficiently schedules them, and manages how processes are terminated.
 [Q: what does the kernel do?]
 
 ### Memory Management
 
 - Memory is less plentiful than hard disk drive, so *virtual memory* is a way to generate more memory than the computer physically has.
 
-- **Virtual Memory** The combination of hard drive space and RAM that acts like memory that our processes can use.
+- **Virtual Memory** is the combination of hard drive space and RAM that acts like memory that our processes can use.
 
 [Pages stored in virtual memory]
 
@@ -165,7 +163,7 @@
 
 ### I/O Management
 
-- **I/O devices** Devices that perform input and output.
+- **I/O devices** are devices that perform input and output.
   - Includes monitors, speakers, mouse/keyboard, webcams, and hard disk drives.
 
 - The kernel needs to be able to load drivers, so the computer can recognize and communicate with different types of hardware.
@@ -189,7 +187,7 @@
   1. Shell
   2. Graphical user interface (GUI)
 
-- **Shell** A program that interprets text commands and sends them to the OS to execute.
+- **Shell:** A program that interprets text commands and sends them to the OS to execute.
 
 - A **GUI** is a visual way to interact with a computer, and implements much abstraction. 
 
@@ -200,7 +198,7 @@
 
 ### Logs
 
-- **Logs** Files that record system events on our computer, just like a system's diary.
+- **Logs** are files that record system events on our computer, just like a system's diary.
 
 - Logs are kept so we can refer to them, when we need to find out something that happened.
 
@@ -221,9 +219,9 @@
   7. Essential system processes and user space items are launched
     - Processes such as user login, desktop environments, etc.
 
-- **BIOS/UEFI** A low-level software that initializes our computer's hardware to make sure everything is good to go.
+- **BIOS/UEFI:** A low-level software that initializes our computer's hardware to make sure everything is good to go.
 
-- **Bootloader** A small program that loads the operating system.
+- **Bootloader:** A small program that loads the operating system.
 
 ### Mobile Operating Systems
 
@@ -252,7 +250,7 @@ The operating systems in use by an organization have a lot to do with the applic
 
 ### Virtual Machines
 
-- **Virtual machine (VM)** Just a copy of a real machine.
+- **Virtual machine (VM):** Just a copy of a real machine.
 
 ### Installing Windows
 
