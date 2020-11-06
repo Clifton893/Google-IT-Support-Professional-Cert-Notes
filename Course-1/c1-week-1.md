@@ -44,7 +44,7 @@ An **algorithm** is a series of steps that solve specific problems.
 ## The Path to Modern Computers
 
 ### What is cryptography?
-**Cryptography** is the art of writing and solving codes. WW2 significance.
+**Cryptography** is the art of writing and solving codes. It evolved into a modern science in World War 2.
 
 <!-- - Alan Turing and the Enigma Machine, ENIAC -->
 
