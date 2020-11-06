@@ -225,4 +225,24 @@ Tech described what the issue is; what caused the issue; and the specific steps 
 
 ### Keywords
 
+What is troubleshooting?
+
+What is a root cause?
+
+What are soft skills?
+
+What is a ticket?
+
+What is a bug?
+
+What is an elevator pitch?
+
 ### Concepts
+
+What is the troubleshooting process?
+
+What are the four crucial parts of an IT support interaction?
+
+What are the two important reason for updating tickets?
+
+What makes for good documentation?
