@@ -112,13 +112,13 @@ Computers connect to a few different devices that help organize our network toge
 
 - Finite IP addresses
 
-- The current protocol of IP, ** Internet Protocol version 4 (IPv4)** is an address that made up of 32 bits separated into 4 groups (four bytes).
+- The current protocol of IP, **Internet Protocol version 4 (IPv4)** is an address that made up of 32 bits separated into 4 groups (four bytes).
   - Remember that 1 byte can store up to 256 values (0 - 255).
   - Thus, an example of an IPv4 address would be `73.55.242.3`
 - This is limited, since there are less than 4.3 billion IPv4 addresses, and *over* 4.3 billion websites on the web today.
 
 - IPv6 addresses consist of 128 bits -- four times more than IPv4.
-  - Adoption of IPv6 is slow but steady.
+  - Adoption of IPv6 is slow, but steady.
 
 - **Network Address Translation (NAT)** lets organizations use one public IP address and many private IP addresses within the network.
   - Think of it like a business's receptionist, who transfers calls to private numbers inside the business.
