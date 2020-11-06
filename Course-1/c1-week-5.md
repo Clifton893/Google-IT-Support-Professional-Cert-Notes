@@ -151,4 +151,30 @@ It's easy to manage software on one machine; but what if you need to manage soft
 
 ### Keywords
 
+What is software?
+
+What is coding?
+
+What is scripting?
+
+What is programming?
+
+What is OSS?
+
+What is firmware?
+
+What is a compiled programming language?
+
+~
+
+What is a driver?
+
+What is an application?
+
+What is a software bug?
+
 ### Concepts
+
+What's the difference between compiled language and interpreted language?
+
+What's the benefit of scripting?
