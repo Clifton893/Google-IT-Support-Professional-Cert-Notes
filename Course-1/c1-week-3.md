@@ -386,3 +386,10 @@ What are the aspects of file metadata?
 How do pages work in virtual memory?
 
 What is a basic summary of the boot process?
+
+<!-- 
+<details>
+  <summary></summary>
+  <p></p>
+</details>
+-->
