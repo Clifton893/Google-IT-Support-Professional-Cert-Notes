@@ -151,30 +151,66 @@ It's easy to manage software on one machine; but what if you need to manage soft
 
 ### Keywords
 
-What is software?
+<details>
+  <summary>What is software?</summary>
+  <p></p>
+</details>
 
-What is coding?
+<details>
+  <summary>What is coding?</summary>
+  <p></p>
+</details>
 
-What is scripting?
+<details>
+  <summary>What is scripting?</summary>
+  <p></p>
+</details>
 
-What is programming?
+<details>
+  <summary>What is programming?</summary>
+  <p></p>
+</details>
 
-What is OSS?
+<details>
+  <summary>What is OSS?</summary>
+  <p></p>
+</details>
 
-What is firmware?
+<details>
+  <summary>What is firmware?</summary>
+  <p></p>
+</details>
 
-What is a compiled programming language?
+<details>
+  <summary>What is a compiled programming language?</summary>
+  <p></p>
+</details>
 
 ~
 
-What is a driver?
+<details>
+  <summary>What is a driver?</summary>
+  <p></p>
+</details>
 
-What is an application?
+<details>
+  <summary>What is an application?</summary>
+  <p></p>
+</details>
 
-What is a software bug?
+<details>
+  <summary>What is a software bug?</summary>
+  <p></p>
+</details>
 
 ### Concepts
 
-What's the difference between compiled language and interpreted language?
+<details>
+  <summary>What's the difference between compiled language and interpreted language?</summary>
+  <p></p>
+</details>
 
-What's the benefit of scripting?
+<details>
+  <summary>What's the benefit of scripting?</summary>
+  <p></p>
+</details>
