@@ -268,86 +268,202 @@
 
 ### Keywords
 
-What are ports?
+<details>
+  <summary>What are ports?</summary>
+  <p></p>
+</details>
 
-What is a CPU?
+<details>
+  <summary>What is a CPU?</summary>
+  <p></p>
+</details>
 
-What is RAM?
+<details>
+  <summary>What is RAM?</summary>
+  <p></p>
+</details>
 
-What is a hard drive?
+<details>
+  <summary>What is a hard drive?</summary>
+  <p></p>
+</details>
 
-What is a motherboard?
+<details>
+  <summary>What is a motherboard?</summary>
+  <p></p>
+</details>
 
-What is a power supply?
+<details>
+  <summary>What is a power supply?</summary>
+  <p></p>
+</details>
 
+~
 
-What is a program?
+<details>
+  <summary>What is a program?</summary>
+  <p></p>
+</details>
 
-What is the external data bus?
+<details>
+  <summary>What is the external data bus?</summary>
+  <p></p>
+</details>
 
-What is a register?
+<details>
+  <summary>What is a register?</summary>
+  <p></p>
+</details>
 
-What is a memory controller chip?
+<details>
+  <summary>What is a memory controller chip?</summary>
+  <p></p>
+</details>
 
-What is an address bus?
+<details>
+  <summary>What is an address bus?</summary>
+  <p></p>
+</details>
 
-What is cache?
+<details>
+  <summary>What is cache?</summary>
+  <p></p>
+</details>
 
-What is a clock wire?
+<details>
+  <summary>What is a clock wire?</summary>
+  <p></p>
+</details>
 
-What is overclocking?
+<details>
+  <summary>What is overclocking?</summary>
+  <p></p>
+</details>
 
+~
 
-What is an instruction set?
+<details>
+  <summary>What is an instruction set?</summary>
+  <p></p>
+</details>
 
-What is a heat sink?
+<details>
+  <summary>What is a heat sink?</summary>
+  <p></p>
+</details>
 
-What is a peripheral?
+<details>
+  <summary>What is a peripheral?</summary>
+  <p></p>
+</details>
 
-What is an expansion slot?
+<details>
+  <summary>What is an expansion slot?</summary>
+  <p></p>
+</details>
 
-What is an ATA drive?
+<details>
+  <summary>What is an ATA drive?</summary>
+  <p></p>
+</details>
 
-What is NVM Express?
+<details>
+  <summary>What is NVM Express?</summary>
+  <p></p>
+</details>
 
-What is amperage?
+<details>
+  <summary>What is amperage?</summary>
+  <p></p>
+</details>
 
-What is wattage?
+<details>
+  <summary>What is wattage?</summary>
+  <p></p>
+</details>
 
-What is a driver?
+<details>
+  <summary>What is a driver?</summary>
+  <p></p>
+</details>
 
-What is the BIOS?
+<details>
+  <summary>What is the BIOS?</summary>
+  <p></p>
+</details>
 
-What is the UEFI?
+<details>
+  <summary>What is the UEFI?</summary>
+  <p></p>
+</details>
 
-What is the POST?
+<details>
+  <summary>What is the POST?</summary>
+  <p></p>
+</details>
 
-What is the CMOS?
+<details>
+  <summary> What is the CMOS?</summary>
+  <p></p>
+</details>
 
+~
 
-What is a factory reset?
+<details>
+  <summary>What is a factory reset?</summary>
+  <p></p>
+</details>
 
-
+~
 
 
 ### Concepts
+<details>
+  <summary>What are the two aspects of a chipset?</summary>
+  <p></p>
+</details>
 
-What are the two aspects of a chipset?
+<details>
+  <summary>What is the standard expansion bus today?</summary>
+  <p></p>
+</details>
 
-What is the standard expansion bus today?
+<details>
+  <summary>What are the two most common motherboard form factors?</summary>
+  <p></p>
+</details>
 
-What are the two most common motherboard form factors?
+<details>
+  <summary>What are the differences between HDD and SSD?</summary>
+  <p></p>
+</details>
 
-What are the differences between HDD and SSD?
+<details>
+  <summary>What is the most common ATA drive today?</summary>
+  <p></p>
+</details>
 
-What is the most common ATA drive today?
+<details>
+  <summary>What does "hot-swappable" mean?</summary>
+  <p></p>
+</details>
 
-What does "hot-swappable" mean?
+<details>
+  <summary>What are the most common USB connection types today?</summary>
+  <p></p>
+</details>
 
-What are the most common USB connection types today?
+<details>
+  <summary>What is the difference between Mb and MB, and how do you calculate them?</summary>
+  <p></p>
+</details>
 
-! What is the difference between Mb and MB, and how do you calculate them?
+<details>
+  <summary>Why should you always ground yourself before working on physical components of a computer?</summary>
+  <p></p>
+</details>
 
-Why should you always ground yourself before working on physical components of a computer?
-
-! How do you assemble a (desktop) computer?
+<details>
+  <summary>How do you assemble a (desktop) computer?</summary>
+  <p></p>
+</details>
