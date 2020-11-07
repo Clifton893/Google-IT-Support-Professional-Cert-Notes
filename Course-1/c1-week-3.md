@@ -291,105 +291,210 @@ The power of the web browser, and advancement in web browser applications, have 
 ## Questions for review
 
 ### Keywords
+<details>
+  <summary>What is a remote connection?</summary>
+  <p></p>
+</details>
 
-What is a remote connection?
+<details>
+  <summary>What is SSH?</summary>
+  <p></p>
+</details>
 
-What is SSH?
+<details>
+  <summary>What is VPN?</summary>
+  <p></p>
+</details>
 
-What is VPN?
-
-What is PuTTY?
-
-~
-
-What is an operating system?
-
-What is a kernel?
-
-What is a user space?
-
-What are the three major operating systems in IT?
-
-What is process management?
-
-What is I/O management?
+<details>
+  <summary>What is PuTTY?</summary>
+  <p></p>
+</details>
 
 ~
 
-What is NTFS?
+<details>
+  <summary>What is an operating system?</summary>
+  <p></p>
+</details>
 
-What is APFS?
+<details>
+  <summary>What is a kernel?</summary>
+  <p></p>
+</details>
 
-What is ext4?
+<details>
+  <summary>What is a user space?</summary>
+  <p></p>
+</details>
 
-~
+<details>
+  <summary>What are the three major operating systems in IT?</summary>
+  <p></p>
+</details>
 
-What is block storage?
+<details>
+  <summary>What is process management?</summary>
+  <p></p>
+</details>
 
-What is a file extension?
-
-~
-
-What is a process?
-
-What is a program?
-
-What is a time slice?
-
-~
-
-What is virtual memory?
-
-What are I/O devices?
-
-What is a driver?
-
-~
-
-What is a shell?
-
-What is a GUI?
-
-What is BASH?
+<details>
+  <summary>What is I/O management?</summary>
+  <p></p>
+</details>
 
 ~
 
-What are logs?
+<details>
+  <summary>What is NTFS?</summary>
+  <p></p>
+</details>
 
-What does "booting" mean?
+<details>
+  <summary>What is APFS?</summary>
+  <p></p>
+</details>
 
-What is the BIOS/UEFI?
-
-What is a bootloader?
+<details>
+  <summary>What is ext4?</summary>
+  <p></p>
+</details>
 
 ~
 
-What is a virtual machine?
+<details>
+  <summary>What is block storage?</summary>
+  <p></p>
+</details>
 
+<details>
+  <summary>What is a file extension?</summary>
+  <p></p>
+</details>
+
+~
+
+<details>
+  <summary>What is a process?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What is a program?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What is a time slice?</summary>
+  <p></p>
+</details>
+
+~
+
+<details>
+  <summary>What is virtual memory?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What are I/O devices?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What is a driver?</summary>
+  <p></p>
+</details>
+
+~
+
+<details>
+  <summary>What is a shell?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What is a GUI?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What is BASH?</summary>
+  <p></p>
+</details>
+
+~
+
+<details>
+  <summary>What are logs?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What does "booting" mean?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What is the BIOS/UEFI?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What is a bootloader?</summary>
+  <p></p>
+</details>
+
+~
+
+<details>
+  <summary>What is a virtual machine?</summary>
+  <p></p>
+</details>
 
 ### Concepts
 
-How do SSH authentication keys work?
-
-What is the difference between RDP and MSTSC?
-
-What are the two main parts of an operating system?
-
-What are the main kernel operations?
-
-What are the 3 main components of file management?
-
-How do data blocks work?
-
-What are the aspects of file metadata?
-
-How do pages work in virtual memory?
-
-What is a basic summary of the boot process?
-
-<!-- 
 <details>
-  <summary></summary>
+  <summary>How do SSH authentication keys work?</summary>
   <p></p>
 </details>
--->
+
+<details>
+  <summary>What is the difference between RDP and MSTSC?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What are the two main parts of an operating system?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What are the main kernel operations?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What are the 3 main components of file management?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>How do data blocks work?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What are the aspects of file metadata?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>How do pages work in virtual memory?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What is a basic summary of the boot process?</summary>
+  <p></p>
+</details>
