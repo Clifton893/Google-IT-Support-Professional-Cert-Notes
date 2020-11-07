@@ -153,25 +153,54 @@ Computers connect to a few different devices that help organize our network toge
 ## Questions for review
 
 ### Keywords
+<details>
+  <summary>What is a network?</summary>
+  <p></p>
+</details>
 
-What is a network?
+<details>
+  <summary>What is the Internet?</summary>
+  <p></p>
+</details>
 
-What is the Internet?
+<details>
+  <summary>What is an IP address?</summary>
+  <p></p>
+</details>
 
-What is an IP address?
+<details>
+  <summary>What is a MAC address?</summary>
+  <p></p>
+</details>
 
-What is a MAC address?
+<details>
+  <summary>What is the DNS?</summary>
+  <p></p>
+</details>
 
-What is the DNS?
+<details>
+  <summary>What is NAT?</summary>
+  <p></p>
+</details>
 
-What is NAT?
-
-What is the Internet of Things?
+<details>
+  <summary>What is the Internet of Things?</summary>
+  <p></p>
+</details>
 
 ### Concepts
 
-What is the process of connecting to the Internet?
+<details>
+  <summary>What is the process of connecting to the Internet?</summary>
+  <p></p>
+</details>
 
-What is the difference between the TCP and IP?
+<details>
+  <summary>What is the difference between the TCP and IP?</summary>
+  <p></p>
+</details>
 
-Why was the creation of TCP/IP so important in networking history?
+<details>
+  <summary>Why was the creation of TCP/IP so important in networking history?</summary>
+  <p></p>
+</details>
