@@ -124,28 +124,70 @@ An **algorithm** is a series of steps that solve specific problems.
 
 ### Keywords
 
-What is IT?
+<details>
+  <summary>What is IT?</summary>
+  <p></p>
+</details>
 
-What is a computer?
+<details>
+  <summary>What is a computer?</summary>
+  <p></p>
+</details>
 
-What is an algorithm?
+<details>
+  <summary>What is an algorithm?</summary>
+  <p></p>
+</details>
 
-What is cryptography?
+<details>
+  <summary>What is cryptography?</summary>
+  <p></p>
+</details>
 
-What does "open source" software mean?
+<details>
+  <summary>What does "open source" software mean?</summary>
+  <p></p>
+</details>
 
-What is binary?
+<details>
+  <summary>What is binary?</summary>
+  <p></p>
+</details>
 
-What is character encoding?
+<details>
+  <summary>What is character encoding?</summary>
+  <p></p>
+</details>
 
-What are logic gates?
+<details>
+  <summary>What are logic gates?</summary>
+  <p></p>
+</details>
 
-What is abstraction?
+<details>
+  <summary>What is abstraction?</summary>
+  <p></p>
+</details>
+
+<details>
+  <summary>What is character encoding?</summary>
+  <p></p>
+</details>
 
 ### Concepts
 
-What does an IT support specialist do?
+<details>
+  <summary>What does an IT support specialist do?</summary>
+  <p></p>
+</details>
 
-How does binary tell a computer what to do?
+<details>
+  <summary>How does binary tell a computer what to do?</summary>
+  <p></p>
+</details>
 
-What are the 4 layers of computers?
+
+<details>
+  <summary>What are the 4 layers of computers?</summary>
+  <p></p>
+</details>
