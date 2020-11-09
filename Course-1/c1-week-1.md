@@ -126,59 +126,59 @@ An **algorithm** is a series of steps that solve specific problems.
 
 <details>
   <summary>What is IT?</summary>
-  <p></p>
+  <p>The use of digital technology, like computers and the Internet, to store and process data into useful information.</p>
 </details>
 
 <details>
   <summary>What is a computer?</summary>
-  <p></p>
+  <p>A device that stores and processes data by performing calculations.</p>
 </details>
 
 <details>
   <summary>What is an algorithm?</summary>
-  <p></p>
+  <p>A series of steps that solve specific problems</p>
 </details>
 
 <details>
   <summary>What is cryptography?</summary>
-  <p></p>
+  <p>The art of writing and solving codes.</p>
 </details>
 
 <details>
   <summary>What does "open source" software mean?</summary>
-  <p></p>
+  <p>Anyone could modify and share it.</p>
 </details>
 
 <details>
   <summary>What is binary?</summary>
-  <p></p>
+  <p>The language of zeroes and ones that computers use to communicate.</p>
 </details>
 
 <details>
   <summary>What is character encoding?</summary>
-  <p></p>
+  <p>A way of assigning binary values to characters, so that humans can read them</p>
 </details>
 
 <details>
   <summary>What are logic gates?</summary>
-  <p></p>
+  <p>A circuit that allow our transistors to do more complex tasks, like decide where to send electrical signals depending on logical conditions.</p>
 </details>
 
 <details>
   <summary>What is abstraction?</summary>
-  <p></p>
+  <p>To take relatively complex system and simplify it for our use and understanding.</p>
 </details>
 
 <details>
   <summary>What is character encoding?</summary>
-  <p></p>
+  <p>Assigns our binary values to characters, so that we as humans can read them.</p>
 </details>
 
 ### Concepts
 
 <details>
   <summary>What does an IT support specialist do?</summary>
-  <p></p>
+  <p>Manage, instal, maintain, troubleshoot, and configure office and computing equipment.</p>
 </details>
 
 <details>
@@ -189,5 +189,5 @@ An **algorithm** is a series of steps that solve specific problems.
 
 <details>
   <summary>What are the 4 layers of computers?</summary>
-  <p></p>
+  <p>Hardware; operating system; software; user.</p>
 </details>
