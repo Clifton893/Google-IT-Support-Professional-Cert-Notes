@@ -183,7 +183,7 @@ An **algorithm** is a series of steps that solve specific problems.
 
 <details>
   <summary>How does binary tell a computer what to do?</summary>
-  <p></p>
+  <p>Binary uses electrical charges that are either ON or OFF, as a code to deliver data, which the computer can then read.</p>
 </details>
 
 
