@@ -91,6 +91,11 @@ An **algorithm** is a series of steps that solve specific problems.
 
 - Transistors voltage =1, no voltage =0
 
+#### Supplemental Binary Reading
+- [Wonderopolis: How Does the Binary System Work?](https://wonderopolis.org/wonder/how-does-the-binary-system-work)
+- [BBC: Introducing Binary](https://www.bbc.co.uk/bitesize/guides/zwsbwmn/revision/1)
+- [How to Geek: What is Binary, and Why Do Computers Use It?](https://www.howtogeek.com/367621/what-is-binary-and-why-do-computers-use-it/)
+
 #### What are logic gates?
 **Logic gates** allow our transistors to do more complex tasks, like decide where to send electrical signals depending on logical conditions.
 
