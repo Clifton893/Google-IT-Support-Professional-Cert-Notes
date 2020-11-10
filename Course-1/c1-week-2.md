@@ -338,34 +338,39 @@
 
 <details>
   <summary>What is cache?</summary>
-  <p></p>
+  <p>Cache i smaller than RAM, but stores more frequently-used data in an easier and faster-to-use way.</p>
 </details>
 
 <details>
   <summary>What is a clock wire?</summary>
-  <p></p>
+  <p>A clock wire lets the CPU know it can start performing calculations, triggered by a clock cycle.</p>
+</details>
+
+<details>
+  <summary>What is a clock cycle?</summary>
+  <p>A clock cycle is when voltage is sent to the clock wire, and refers to the entire process of a clock wire-CPU interaction.</p>
 </details>
 
 <details>
   <summary>What is overclocking?</summary>
-  <p></p>
+  <p>Overclocking is a way to increase a CPU's clock cycle rate, to improve performance.</p>
 </details>
 
 ~
 
 <details>
   <summary>What is an instruction set?</summary>
-  <p></p>
+  <p>An instruction set is a list of instructions the CPU can run (hard-coded and varying by manufacturer).</p>
 </details>
 
 <details>
   <summary>What is a heat sink?</summary>
-  <p></p>
+  <p>A heat sink pulls heat from the CPU and dissipates it with a fan or other medium.</p>
 </details>
 
 <details>
   <summary>What is a peripheral?</summary>
-  <p></p>
+  <p>Peripherals are external devices that can connect to a computer.</p>
 </details>
 
 <details>
