@@ -270,59 +270,70 @@
 
 <details>
   <summary>What are ports?</summary>
-  <p></p>
+  <p>Ports are connection points that we can connect devices to that extend the functionality of our computer.</p>
 </details>
 
 <details>
   <summary>What is a CPU?</summary>
-  <p></p>
+  <p>The central processing unit (CPU) is the brain of the computer, it does all the calculations and data processing</p>
 </details>
 
 <details>
   <summary>What is RAM?</summary>
-  <p></p>
+  <p>Random access memory (RAM) is the computer's short term memory.</p>
 </details>
 
 <details>
   <summary>What is a hard drive?</summary>
-  <p></p>
+  <p>The hard drive holds all of the data.</p>
 </details>
 
 <details>
   <summary>What is a motherboard?</summary>
-  <p></p>
+  <p>The motherboard is the body or circulatory system of the computer, that connects all the pieces together.</p>
 </details>
 
 <details>
   <summary>What is a power supply?</summary>
-  <p></p>
+  <p>The power supply converts electricity from the wall outlet into a format the computer can use.</p>
 </details>
 
 ~
 
 <details>
   <summary>What is a program?</summary>
-  <p></p>
+  <p>Programs are instructions that tell the computer what to do.</p>
+</details>
+
+<details>
+  <summary>What is a data bus?</summary>
+  <p>A data bus is a network of wires connecting computer components, which send voltage to wires to represent on (1) or off (0).
+</p>
+</details>
+
+<details>
+  <summary>What is an internal data bus?</summary>
+  <p>The internal data bus communicates between internal components like video cards and memory.</p>
 </details>
 
 <details>
   <summary>What is the external data bus?</summary>
-  <p></p>
+  <p>The external data bus (EDB) connects the computer to peripherals, such as a USB or SCSI device.</p>
 </details>
 
 <details>
   <summary>What is a register?</summary>
-  <p></p>
+  <p>Registers store the data the CPU works with.</p>
 </details>
 
 <details>
   <summary>What is a memory controller chip?</summary>
-  <p></p>
+  <p>The memory controller chip (MCC) is a bridge between the CPU and the RAM, like a brain's nerve controlling thought or memory.</p>
 </details>
 
 <details>
   <summary>What is an address bus?</summary>
-  <p></p>
+  <p>The address bus connects the CPU to the MCC; it sends the location of data, so the MCC can lo</p>
 </details>
 
 <details>
