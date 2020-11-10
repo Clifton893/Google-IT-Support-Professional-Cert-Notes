@@ -174,11 +174,6 @@ An **algorithm** is a series of steps that solve specific problems.
   <p>To take relatively complex system and simplify it for our use and understanding.</p>
 </details>
 
-<details>
-  <summary>What is character encoding?</summary>
-  <p>Assigns our binary values to characters, so that we as humans can read them.</p>
-</details>
-
 ### Concepts
 
 <details>
