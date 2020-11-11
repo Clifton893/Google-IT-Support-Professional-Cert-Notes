@@ -375,12 +375,12 @@
 
 <details>
   <summary>What is an expansion slot?</summary>
-  <p></p>
+  <p>Expansion slots allow for increased computer functionality.</p>
 </details>
 
 <details>
-  <summary>What is an ATA drive?</summary>
-  <p></p>
+  <summary>What is ATA?</summary>
+  <p>Advanced technology attachment (ATA) is a standard physical interface for connecting storage devices within a computer.</p>
 </details>
 
 <details>
@@ -390,44 +390,44 @@
 
 <details>
   <summary>What is amperage?</summary>
-  <p></p>
+  <p>Measured in amps, amperage is the pulling of electricity as <em>as needed</em>; whereas voltage pushes all electricity.</p>
 </details>
 
 <details>
   <summary>What is wattage?</summary>
-  <p></p>
+  <p>Wattage is the amount of volts and amps required by a device.</p>
 </details>
 
 <details>
   <summary>What is a driver?</summary>
-  <p></p>
+  <p>Drivers contain instructions the CPU needs to understand external devices.</p>
 </details>
 
 <details>
   <summary>What is the BIOS?</summary>
-  <p></p>
+  <p>The basic input/output services (BIOS) helps initialize the hardware in the computer, and gets the operating system up and running.</p>
 </details>
 
 <details>
   <summary>What is the UEFI?</summary>
-  <p></p>
+  <p>The unified extensible firmware interface (UEFI) functions like the BIOS, but is a modernized, superior format.</p>
 </details>
 
 <details>
   <summary>What is the POST?</summary>
-  <p></p>
+  <p>The power-on self test (POST) figures out which hardware is on the computer, and happens before the BIOS initializes anything.</p>
 </details>
 
 <details>
   <summary> What is the CMOS?</summary>
-  <p></p>
+  <p>The CMOS is a battery, which stores basic data about booting the computer.</p>
 </details>
 
 ~
 
 <details>
   <summary>What is a factory reset?</summary>
-  <p></p>
+  <p>A factory reset removes all data, apps, and customization from a device.</p>
 </details>
 
 ~
