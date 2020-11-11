@@ -95,9 +95,13 @@
   - RPM
 
 #### ATA Drives
+- [Supplemental reading](https://www.techwalla.com/articles/difference-between-ata-and-sata-hard-drives)
+
 - SATA is the most common
 
 - NVM Express (or NVMe)
+  - [Cisco: NVMe for Absolute Beginners](https://blogs.cisco.com/datacenter/nvme-for-absolute-beginners)
+  - [Supplemental reading](https://searchstorage.techtarget.com/definition/NVMe-non-volatile-memory-express)
 
 - "Hot-swappable"
 
