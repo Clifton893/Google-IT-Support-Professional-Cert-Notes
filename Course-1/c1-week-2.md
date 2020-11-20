@@ -76,7 +76,7 @@
 
 - **Chipset** decides how components talk to each other in the computer.
   - **Northbridge** connects RAM and video cards
-  - **Southbridge** maintains I/O (input/output) controllers, like hard drives and USB devices that inout and output data.
+  - **Southbridge** maintains I/O (input/output) controllers, like hard drives and USB devices that input and output data.
 
 - The chipset allows you to manage data between the CPU, RAM, and peripherals.
 
@@ -440,47 +440,47 @@
 ### Concepts
 <details>
   <summary>What are the two aspects of a chipset?</summary>
-  <p></p>
+  <p>The Northbridge connects RAM and video cards; and the Southbridge maintains I/O controllers (like hard drives and USB devices).</p>
 </details>
 
 <details>
   <summary>What is the standard expansion bus today?</summary>
-  <p></p>
+  <p>Peripheral Component Interconnect (PCI) Express</p>
 </details>
 
 <details>
   <summary>What are the two most common motherboard form factors?</summary>
-  <p></p>
+  <p>Advanced Technology eXtended (ATX) and Information Technology eXtended</p>
 </details>
 
 <details>
   <summary>What are the differences between HDD and SSD?</summary>
-  <p></p>
+  <p>HDD have more moving parts, are more fragile, and less expensive; SSD are far more stabile, but more expensive.</p>
 </details>
 
 <details>
   <summary>What is the most common ATA drive today?</summary>
-  <p></p>
+  <p>The Serial ATA (SATA) drive</p>
 </details>
 
 <details>
   <summary>What does "hot-swappable" mean?</summary>
-  <p></p>
+  <p>"Hot-swappable" refers to a peripheral or component that can be removed or added while the computer is running.</p>
 </details>
 
 <details>
   <summary>What are the most common USB connection types today?</summary>
-  <p></p>
+  <p>USB 2.0; USB 3.0; USB 3.1</p>
 </details>
 
 <details>
-  <summary>What is the difference between Mb and MB, and how do you calculate them?</summary>
-  <p></p>
+  <summary>What is the difference between Mb and MB?</summary>
+  <p>A MB is a *megabyte*, a unit of data storage; a Mb is a *megabit*, a unit of data transfer rate.</p>
 </details>
 
 <details>
   <summary>Why should you always ground yourself before working on physical components of a computer?</summary>
-  <p></p>
+  <p>Static electricity is a major hazard to computer components.</p>
 </details>
 
 <details>
