@@ -28,7 +28,7 @@ The Internet is *not* the World Wide Web.
 - Devices that can connect to a network have another unique identifier called a MAC address.
   - ***Media access control (MAC) addresses** are generally permanent and hard-coded onto a device.*
 
-- When you send or receive data through a network, you need to have both an **IP* and a **MAC** address.
+- When you send or receive data through a network, you need to have both an *IP* and a **MAC** address.
 
 - An analogy is the addresses on a letter:
   - The IP address is your home address;
@@ -155,37 +155,37 @@ Computers connect to a few different devices that help organize our network toge
 ### Keywords
 <details>
   <summary>What is a network?</summary>
-  <p></p>
+  <p>An interconnection of computers.</p>
 </details>
 
 <details>
   <summary>What is the Internet?</summary>
-  <p></p>
+  <p>The physical connection of computers and wires around the world.</p>
 </details>
 
 <details>
   <summary>What is an IP address?</summary>
-  <p></p>
+  <p>An Internet protocol (IP) address is an identifier for computers on a network.</p>
 </details>
 
 <details>
   <summary>What is a MAC address?</summary>
-  <p></p>
+  <p>Media access control (MAC) addresses are unique identifiers for hardware, generally permanent and hard-coded onto a device.</p>
 </details>
 
 <details>
   <summary>What is the DNS?</summary>
-  <p></p>
+  <p>The domain name system (DNS) acts like the Internet's directory, and uses human-readable words to map an IP address.</p>
 </details>
 
 <details>
   <summary>What is NAT?</summary>
-  <p></p>
+  <p>Network address translation (NAT) lets organizations use one public IP address, and many private IP addresses, within a network.</p>
 </details>
 
 <details>
   <summary>What is the Internet of Things?</summary>
-  <p></p>
+  <p>The Internet of Things refers to the integration and interconnection of smart devices.</p>
 </details>
 
 ### Concepts
