@@ -293,163 +293,163 @@ The power of the web browser, and advancement in web browser applications, have 
 ### Keywords
 <details>
   <summary>What is a remote connection?</summary>
-  <p></p>
+  <p>A remote connection allows us to manage multiple machines from anywhere in the world.</p>
 </details>
 
 <details>
   <summary>What is SSH?</summary>
-  <p></p>
+  <p>Secure shell (SSH) is a protocol, implemented by other programs to securely access one computer from another.</p>
 </details>
 
 <details>
   <summary>What is VPN?</summary>
-  <p></p>
+  <p>A virtual private network (VPN) allows you to connect to a private network (like your work network) over the Internet.</p>
 </details>
 
 <details>
   <summary>What is PuTTY?</summary>
-  <p></p>
+  <p>A popular open-source SSH application for Windows.</p>
 </details>
 
 ~
 
 <details>
   <summary>What is an operating system?</summary>
-  <p></p>
+  <p>The whole package that manages our computer's resources and lets us interact with it. It is composed of a kernel and a user space.</p>
 </details>
 
 <details>
   <summary>What is a kernel?</summary>
-  <p></p>
+  <p>The kernel is the main core of an operating system.</p>
 </details>
 
 <details>
   <summary>What is a user space?</summary>
-  <p></p>
+  <p>Everything outside of the kernel (system programs, user interfaces, etc).</p>
 </details>
 
 <details>
   <summary>What are the three major operating systems in IT?</summary>
-  <p></p>
+  <p>Windows ("PC"), MacOS, and Linux (including Ubuntu, Debian, and Red Hat).</p>
 </details>
 
 <details>
   <summary>What is process management?</summary>
-  <p></p>
+  <p>A kernel process that allows the computer to multitask at a rate faster than we can blink.</p>
 </details>
 
 <details>
   <summary>What is I/O management?</summary>
-  <p></p>
+  <p>Input/output (I/O) management is anything that can give us input, or that we can use for output of data.</p>
 </details>
 
 ~
 
 <details>
   <summary>What is NTFS?</summary>
-  <p></p>
+  <p>The file system used by Windows; evolved from the system introduced in Windows NT.</p>
 </details>
 
 <details>
   <summary>What is APFS?</summary>
-  <p></p>
+  <p>The default file system for MacOS.</p>
 </details>
 
 <details>
   <summary>What is ext4?</summary>
-  <p></p>
+  <p>The standard file system used by most Linux distributions.</p>
 </details>
 
 ~
 
 <details>
   <summary>What is block storage?</summary>
-  <p></p>
+  <p>The breaking of data into smaller blocks, so they can be accessed quicker from the hard drive.</p>
 </details>
 
 <details>
   <summary>What is a file extension?</summary>
-  <p></p>
+  <p>The appended part of a filename, which tells us what type of file it is in certain operating systems.</p>
 </details>
 
 ~
 
 <details>
   <summary>What is a process?</summary>
-  <p></p>
+  <p>A program that's executing, like our Internet browser or text editor.</p>
 </details>
 
 <details>
   <summary>What is a program?</summary>
-  <p></p>
+  <p>An application that we can run, like Chrome.</p>
 </details>
 
 <details>
   <summary>What is a time slice?</summary>
-  <p></p>
+  <p>A very short interval of time that gets allocated to a process for CPU execution.</p>
 </details>
 
 ~
 
 <details>
   <summary>What is virtual memory?</summary>
-  <p></p>
+  <p>The combination of hard drive space and RAM, that acts like memory that our processes can use.</p>
 </details>
 
 <details>
   <summary>What are I/O devices?</summary>
-  <p></p>
+  <p>Devices that perform input and output.</p>
 </details>
 
 <details>
   <summary>What is a driver?</summary>
-  <p></p>
+  <p>Drivers are programs that enable a computer to recognize and communicate with different types of hardware.</p>
 </details>
 
 ~
 
 <details>
   <summary>What is a shell?</summary>
-  <p></p>
+  <p>A program that interprets text commands and sends them to the OS to execute.</p>
 </details>
 
 <details>
   <summary>What is a GUI?</summary>
-  <p></p>
+  <p>A visual way to interact with a computer, implementing much abstraction.</p>
 </details>
 
 <details>
   <summary>What is BASH?</summary>
-  <p></p>
+  <p>Born Again Shell (BASH) is the most common shell.</p>
 </details>
 
 ~
 
 <details>
   <summary>What are logs?</summary>
-  <p></p>
+  <p>Files that record system events on our computer, much like a system's diary.</p>
 </details>
 
 <details>
   <summary>What does "booting" mean?</summary>
-  <p></p>
+  <p>To start from nothing, and follow a series of steps to arrive at a fully-operational system.</p>
 </details>
 
 <details>
   <summary>What is the BIOS/UEFI?</summary>
-  <p></p>
+  <p>A low-level software that initializes our computer's hardware to make sure everything is good to go. (UEFI is the successor of BIOS.)</p>
 </details>
 
 <details>
   <summary>What is a bootloader?</summary>
-  <p></p>
+  <p>A small program that loads the operating system.</p>
 </details>
 
 ~
 
 <details>
   <summary>What is a virtual machine?</summary>
-  <p></p>
+  <p>A copy of a real machine (usually, a copy of a computer and its operating system).</p>
 </details>
 
 ### Concepts
