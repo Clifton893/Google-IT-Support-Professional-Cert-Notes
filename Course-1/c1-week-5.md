@@ -153,54 +153,54 @@ It's easy to manage software on one machine; but what if you need to manage soft
 
 <details>
   <summary>What is software?</summary>
-  <p></p>
+  <p>How we, as users, directly interact with a computer.</p>
 </details>
 
 <details>
   <summary>What is coding?</summary>
-  <p></p>
+  <p>Translating one language to another.</p>
 </details>
 
 <details>
-  <summary>What is scripting?</summary>
-  <p></p>
+  <summary>What is a script?</summary>
+  <p>Scripts are mainly used to perform a single or limited-range task.</p>
 </details>
 
 <details>
-  <summary>What is programming?</summary>
-  <p></p>
+  <summary>What is a programming language?</summary>
+  <p>A special language that software developers use to write instructions for computers to execute.</p>
 </details>
 
 <details>
   <summary>What is OSS?</summary>
-  <p></p>
+  <p>Open-source software (OSS) is a type of software that can allow freedom of use, modification, and sharing.</p>
 </details>
 
 <details>
   <summary>What is firmware?</summary>
-  <p></p>
+  <p>Firmware is software that's permanently stored on a computer component (like the BIOS).</p>
 </details>
 
 <details>
   <summary>What is a compiled programming language?</summary>
-  <p></p>
+  <p>Human-readable instructions, sent through a compiler, which converts them into machine-readable instructions.</p>
 </details>
 
 ~
 
 <details>
   <summary>What is a driver?</summary>
-  <p></p>
+  <p>Drivers are a type of software that let a computer interact with hardware.</p>
 </details>
 
 <details>
   <summary>What is an application?</summary>
-  <p></p>
+  <p>Applications are software used for day-to-day functions.</p>
 </details>
 
 <details>
   <summary>What is a software bug?</summary>
-  <p></p>
+  <p>Errors in software that cause unexpected results.</p>
 </details>
 
 ### Concepts
