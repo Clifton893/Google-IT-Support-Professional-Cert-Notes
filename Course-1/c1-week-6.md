@@ -232,7 +232,7 @@ Tech described what the issue is; what caused the issue; and the specific steps 
 
 <details>
   <summary>What is a root cause?</summary>
-  <p></p>
+  <p>The main factor that's causing a range of issues.</p>
 </details>
 
 <details>
@@ -242,18 +242,17 @@ Tech described what the issue is; what caused the issue; and the specific steps 
 
 <details>
   <summary>What is a ticket?</summary>
-  <p></p>
+  <p>A common way of documenting an issue.</p>
 </details>
 
 <details>
   <summary>What is a bug?</summary>
-  <p></p>
+  <p>Issues with the system that weren't caused by an external source.</p>
 </details>
 
 <details>
-  <summary>What is an elevator pitch?
-</summary>
-  <p></p>
+  <summary>What is an elevator pitch?</summary>
+  <p>A short summary of who you are and what kind of career you're looking for.</p>
 </details>
 
 ### Concepts
