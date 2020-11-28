@@ -283,12 +283,19 @@ The OSI model is the most rigorously-defined, meaning it's often used in academi
 - CISCO uses the OSI model, for example.
 
 
-### All the Layers Working in Unison
+<!-- ### All the Layers Working in Unison -->
 
-
-
-
-
-===
+---
 
 ## Questions for review
+
+### Keywords
+
+<!--
+<details>
+  <summary> </summary>
+  <p> </p>
+</details>
+-->
+
+### Concepts
