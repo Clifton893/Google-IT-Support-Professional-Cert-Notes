@@ -340,9 +340,17 @@ Mobile devices tend to use *non-metered connections* when available, to save on 
   - Pairing can sometimes fail, and may require making the device forget the peripheral so it can be paired again.
 
 
+---
 
 ## Questions for review
 
 ### Keywords
+
+<!--
+<details>
+  <summary> </summary>
+  <p> </p>
+</details>
+-->
 
 ### Concepts
