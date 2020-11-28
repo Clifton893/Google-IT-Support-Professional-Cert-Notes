@@ -288,9 +288,17 @@ IPv6, during its adoption, will need a way to travel over the old IPv4 remnants 
 These are companies that provide IPv6 tunneling endpoints for you, so you don't have to introduce additional equipment to your network.
 
 
+---
 
 ## Questions for review
 
 ### Keywords
+
+<!--
+<details>
+  <summary> </summary>
+  <p> </p>
+</details>
+-->
 
 ### Concepts
