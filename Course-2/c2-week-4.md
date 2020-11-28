@@ -405,6 +405,17 @@ Another example is a **reverse proxy**:
 Proxies are any server that act as an intermediary between a client and another server.
 
 
-===
+---
 
 ## Questions for review
+
+### Keywords
+
+<!--
+<details>
+  <summary> </summary>
+  <p> </p>
+</details>
+-->
+
+### Concepts
