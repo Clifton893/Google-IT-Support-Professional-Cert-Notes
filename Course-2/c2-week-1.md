@@ -362,43 +362,73 @@ Following this is the **frame check sequence**.
 
 
 
-
-
 ---
 
 ## Questions for review
 
 ### Keywords
 
-What is a node?
+<details>
+  <summary>What is a node?</summary>
+  <p> </p>
+</details>
 
-What is a client?
+<details>
+  <summary>What is a client?</summary>
+  <p> </p>
+</details>
 
-What is a server?
+<details>
+  <summary>What is a server?</summary>
+  <p> </p>
+</details>
 
-~
+<details>
+  <summary>What is the most common form of cable?</summary>
+  <p> </p>
+</details>
 
-What is the most common form of cable?
+<details>
+  <summary>What is collision domain?</summary>
+  <p> </p>
+</details>
 
-~
+<details>
+  <summary>What is a switch?</summary>
+  <p> </p>
+</details>
 
-What is collision domain?
+<details>
+  <summary>What is UDP?</summary>
+  <p> </p>
+</details>
 
-What is a switch?
+<details>
+  <summary>How many octets are there in a MAC address?</summary>
+  <p> </p>
+</details>
 
-~
-
-What is a UDP?
-
-
-How many octets are there in a MAC address?
 
 
 ### Concepts
 
-Why did hubs fall out of favor?
+<details>
+  <summary>Why did hubs fall out of favor?</summary>
+  <p> </p>
+</details>
 
-What's the difference between a hub and a switch?
+<details>
+  <summary>What's the difference between a hub and a switch?</summary>
+  <p> </p>
+</details>
 
+<details>
+  <summary>What's the purpose of the Data Link layer?</summary>
+  <p> </p>
+</details>
 
-What's the purpose of the Data Link layer?
+<!-- <details>
+  <summary> </summary>
+  <p> </p>
+</details>
+-->
