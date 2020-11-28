@@ -361,7 +361,6 @@ Following this is the **frame check sequence**.
     - *(Ethernet itself only reports on data integrity. It doesn't perform data recovery.)*
 
 
-
 ---
 
 ## Questions for review
