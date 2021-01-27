@@ -1,7 +1,7 @@
 # Google IT Support Professional Certificate — Helpful Notes
 *A helpful study guide for Google's IT Support Professional Certificate program!*
 
-![statusbadge](https://img.shields.io/badge/status-in--progress-green?style=for-the-badge)
+![statusbadge](https://img.shields.io/badge/status-completed-green?style=for-the-badge)
 
 ## Introduction
 This is aimed at fellow students studying the [Google IT Support Professional Certificate](https://grow.google/programs/it-support/) on Coursera. Usually, I type up my notes in TextEdit, and store them in local directories by topic. Other times, I'll jot them down in a spiral notebook on my desk.
